@@ -12,15 +12,16 @@ HOW TO USE:
 
 
 VERSIONS:
-1.0:
-	-works only with Trypanosoma cruzi genome.
+
+Tcruzi-1.0:
+	-works with Trypanosoma cruzi genome from esmeraldo, non-esmeraldo and unassigned from version 3.3.
+
+Tbrucei-1.0:
+	- works with Trypanosoma brucei genome from 427, gambiense and Treu927 from version 4.1.
 	
 
 --
 
-TODO:
-
-	-include other versions with different genomes.
 	
 AUTHOR:
 
