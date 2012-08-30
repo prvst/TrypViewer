@@ -18,6 +18,9 @@ Tcruzi-1.0:
 
 Tbrucei-1.0:
 	- works with Trypanosoma brucei genome from 427, gambiense and Treu927 from version 4.1.
+
+1.2
+	- size problem resolved.
 	
 
 --
